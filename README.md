@@ -66,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
