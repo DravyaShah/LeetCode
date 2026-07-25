@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0147-insertion-sort-list) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
+| [3536-maximum-product-of-two-digits](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
