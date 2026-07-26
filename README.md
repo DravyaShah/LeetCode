@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0766-toeplitz-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -84,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
