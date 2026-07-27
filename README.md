@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0074-search-a-2d-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0766-toeplitz-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -93,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
