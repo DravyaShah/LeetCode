@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Queue
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Binary Search
 |  |
 | ------- |
