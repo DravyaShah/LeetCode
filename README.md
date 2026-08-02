@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0832-flipping-an-image) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
