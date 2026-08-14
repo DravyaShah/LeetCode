@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1329-sort-the-matrix-diagonally) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 ## Greedy
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3731-find-missing-elements) |
