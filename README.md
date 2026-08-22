@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
