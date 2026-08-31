@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2221-find-triangular-sum-of-an-array) |
