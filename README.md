@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0617-merge-two-binary-trees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0617-merge-two-binary-trees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0538-convert-bst-to-greater-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
 |  |
