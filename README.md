@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
+| [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [0766-toeplitz-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0867-transpose-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
+| [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -393,5 +398,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
