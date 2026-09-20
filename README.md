@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1021-remove-outermost-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
