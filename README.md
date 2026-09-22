@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0024-swap-nodes-in-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0114-flatten-binary-tree-to-linked-list) |
