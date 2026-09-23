@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -144,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -421,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1021-remove-outermost-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
