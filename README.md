@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1021-remove-outermost-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
