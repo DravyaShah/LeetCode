@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0617-merge-two-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Monotonic Stack
 |  |
