@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
 ## Hash Table
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -470,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
