@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0062-unique-paths) |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
