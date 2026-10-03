@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
