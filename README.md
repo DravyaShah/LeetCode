@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1143-longest-common-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -498,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
