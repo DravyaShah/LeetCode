@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
 | [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1329-sort-the-matrix-diagonally) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0832-flipping-an-image) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Matrix
@@ -504,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1143-longest-common-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
