@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1143-longest-common-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
