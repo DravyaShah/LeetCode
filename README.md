@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -531,4 +536,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
