@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0240-search-a-2d-matrix-ii) |
