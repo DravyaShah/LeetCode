@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0053-maximum-subarray) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0059-spiral-matrix-ii) |
