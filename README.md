@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0856-score-of-parentheses) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0300-longest-increasing-subsequence) |
