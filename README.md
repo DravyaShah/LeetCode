@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1143-longest-common-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/DravyaShah/LLeetCode-1700/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DravyaShah/LLeetCode-1700/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
