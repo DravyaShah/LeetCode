@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0062-unique-paths) |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1344-angle-between-hands-of-a-clock) |
