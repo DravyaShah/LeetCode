@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0566-reshape-the-matrix) |
 | [0654-maximum-binary-tree](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0654-maximum-binary-tree) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1329-sort-the-matrix-diagonally) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0062-unique-paths) |
 | [0445-add-two-numbers-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DravyaShah/LLeetCode-1700/tree/master/1344-angle-between-hands-of-a-clock) |
